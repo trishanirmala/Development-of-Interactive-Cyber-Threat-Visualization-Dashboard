@@ -10,12 +10,12 @@ Modern organizations face an increasing number of cyber threats, making it diffi
 
 ---
 
-**2\. Problem Statement**  
+## **2\. Problem Statement**  
 Cybersecurity data is often complex, unstructured, and scattered across multiple sources such as attack logs and vulnerability feeds. The absence of an integrated and interactive visualization platform makes it challenging to identify trends, anomalies, and critical vulnerabilities efficiently.
 
 ---
 
-**3\. Objectives of the Project**
+## **3\. Objectives of the Project**
 
 The primary objectives of this project are:
 
@@ -27,7 +27,7 @@ The primary objectives of this project are:
 
 ---
 
-**4\. Proposed System Overview**
+## **4\. Proposed System Overview**
 
 The proposed system follows a modular architecture where each component handles a specific stage of the data analytics pipeline. The system is implemented entirely using Python-based technologies to ensure flexibility, scalability, and integration with advanced data analytics libraries.
 
@@ -41,12 +41,12 @@ The proposed system follows a modular architecture where each component handles 
 
 ---
 
-**5\. Research Model and Methodology**  
+## **5\. Research Model and Methodology**  
 The project follows a **Hybrid Visual Analytics Research Model for Cyber Threat Intelligence**, which combines data preprocessing, exploratory analysis, and human-centric visualization. This model emphasizes analyst-driven interaction to discover insights rather than relying on static reports.
 
 ---
 
-**6\. Module-wise Research and Implementation Model (Customized Approach)**
+## **6\. Module-wise Research and Implementation Model (Customized Approach)**
 
 ### **Module 1: Data Acquisition and Structuring**
 
@@ -136,7 +136,7 @@ A fully functional interactive cyber threat visualization dashboard.
 
 ---
 
-**7\. Evaluation Metrics**
+## **7\. Evaluation Metrics**
 
 The effectiveness of the proposed model is evaluated using:
 
@@ -147,7 +147,7 @@ The effectiveness of the proposed model is evaluated using:
 
 ---
 
-**8\. Expected Outcomes**
+## **8\. Expected Outcomes**
 
 * Improved situational awareness of cyber threats  
 * Faster identification of high-risk systems and attack vectors  
@@ -156,7 +156,7 @@ The effectiveness of the proposed model is evaluated using:
 
 ---
 
-**9\. Advantages of the Proposed Model**
+## **9\. Advantages of the Proposed Model**
 
 * Modular and scalable architecture  
 * Python-based implementation ensures flexibility  
